@@ -1,0 +1,4 @@
+﻿  app_window.cpp
+c:\users\miguel\documents\visual studio 2015\projects\lab01\app_window.cpp(186): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  glutapp2d.vcxproj -> C:\Users\Miguel\Documents\Visual Studio 2015\Projects\Lab01\visualc14\obj\glutapp2d_Debug\glutapp2d.exe
+          1 file(s) copied.

@@ -1,0 +1,5 @@
+﻿  so_curve_eval.cpp
+c:\users\miguel\documents\visual studio 2015\projects\lab08\so_curve_eval.cpp(101): warning C4101: 'N': unreferenced local variable
+c:\users\miguel\documents\visual studio 2015\projects\lab08\so_curve_eval.cpp(101): warning C4101: 't': unreferenced local variable
+  polyedapp.vcxproj -> C:\Users\Miguel\Documents\Visual Studio 2015\Projects\Lab08\visualc14\obj\polyedapp_Debug\polyedapp.exe
+  polyedapp.vcxproj -> obj\polyedapp_Debug\polyedapp.pdb (Full PDB)

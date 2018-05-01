@@ -1,0 +1,29 @@
+﻿  app_main.cpp
+  gs.cpp
+  gs_color.cpp
+  gs_image.cpp
+  gs_mat.cpp
+  gs_quat.cpp
+  gs_vec.cpp
+  gs_vec2.cpp
+  model.cpp
+  app_window.cpp
+  glut_window.cpp
+  ogl_tools.cpp
+  so_axis.cpp
+  so_cactus.cpp
+c:\users\miguel\downloads\project1\so\so_cactus.cpp(84): warning C4018: '<': signed/unsigned mismatch
+  so_capsule.cpp
+  so_claw.cpp
+  so_ground.cpp
+  so_leg.cpp
+  so_scorpion.cpp
+  so_tail.cpp
+  Generating Code...
+  Compiling...
+  so_torso.cpp
+  Generating Code...
+  LINK : obj\Project1_Debug\Project1.exe not found or not built by the last incremental link; performing full link
+  glutapp3d.vcxproj -> C:\Users\Miguel\Downloads\Project1\visualc14\obj\Project1_Debug\Project1.exe
+  glutapp3d.vcxproj -> obj\Project1_Debug\Project1.pdb (Full PDB)
+          1 file(s) copied.
